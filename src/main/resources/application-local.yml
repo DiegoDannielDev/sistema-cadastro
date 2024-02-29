@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://dimotociclodb:5432/cadastro-db
+    username: admin
+    password: admin
+server:
+  port: 8082
+  servlet:
+    context-path: /api
