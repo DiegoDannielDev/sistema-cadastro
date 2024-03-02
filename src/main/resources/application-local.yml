@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://dimotociclodb:5432/cadastro-db
+    url: jdbc:postgresql://localhost:5432/cadastro-db
     username: admin
     password: admin
 server:
